@@ -59,7 +59,7 @@ This design ensures accurate simulation of race conditions, deadlocks, and synch
 ## How to run the project
 1 - Clone the Repository.
       
-    git clone https://github.com/juanmas-hub/conurbanOS.git
+    git clone https://github.com/Tomeitor/conurbanOS.git
     cd conurbanOS
     
     
@@ -104,12 +104,12 @@ Te sugiero este formato:
 👥 Authors
 This project was developed as a team for the Operating Systems course at UTN FRBA.
 
-Tomas Carnezis - tcarnezis — CPU Module
+Tomas Carnezis - @Tomeitor — CPU Module
 
-Joaquin Bidart - jbidart — CPU Module
+Joaquin Bidart - @BidartJ — CPU Module
 
-Federico Cotens - f-cotens — Kernel & IO Modules
+Federico Cotens - @fedecotens — Kernel & IO Modules
 
-Tomas Tsangoulas - tsangoulas — Kernel & IO Modules
+Tomas Tsangoulas - @tomytsa — Kernel & IO Modules
 
-Juan Manuel Bravo - juanmas-hub — Memory Module
+Juan Manuel Bravo - @juanmas-hub — Memory Module
