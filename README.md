@@ -86,3 +86,30 @@ io:
     ./io io_name discos
     
 io names: DISCO1, DISCO2, DISCO3, DISCO4, DISCO5, DISCO6, DISCO7, DISCO8
+
+
+
+El README está muy bien estructurado y describe el proyecto de forma muy profesional. Utilizas términos técnicos precisos (multi-level page tables, TLB, scheduling) que son "palabras clave" que los reclutadores de sistemas buscan.
+
+Sin embargo, para que pase de ser un "trabajo de facultad" a un "proyecto de portfolio profesional", te sugiero unos ajustes finales, especialmente en la sección de autores y en el impacto visual.
+
+Aquí tienes mis recomendaciones para mejorarlo:
+
+1. Sección de Autores (Authors)
+Actualmente está un poco mezclada. Para LinkedIn, queda mucho más profesional una lista limpia donde cada nombre sea un link a su perfil de GitHub.
+
+Te sugiero este formato:
+
+
+👥 Authors
+This project was developed as a team for the Operating Systems course at UTN FRBA.
+
+Tomas Carnezis - tcarnezis — CPU Module
+
+Joaquin Bidart - jbidart — CPU Module
+
+Federico Cotens - f-cotens — Kernel & IO Modules
+
+Tomas Tsangoulas - tsangoulas — Kernel & IO Modules
+
+Juan Manuel Bravo - juanmas-hub — Memory Module
